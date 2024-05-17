@@ -21,9 +21,9 @@
 
 2. **Clone your fork:** Clone your forked repository to your local machine.
 
-    ```bash
-    git clone https://github.com/your-username/A-Z-Python-Projects.git
-    ```
+   ```bash
+   git clone https://github.com/your-username/A-Z-Python-Projects.git
+   ```
 
 3. **Choose your project:** Explore the project folders, pick a Python project that aligns with your interest and skill level.
 
@@ -41,15 +41,15 @@ We welcome contributions from developers of all skill levels. Follow these steps
 
 3. **Commit your changes:** Commit your changes to your branch.
 
-    ```bash
-    git commit -m "Merged and update README"
-    ```
+   ```bash
+   git commit -m "Merged and update README"
+   ```
 
 4. **Push your changes:** Push your branch to your forked repository on GitHub.
 
-    ```bash
-    git push origin feature/your-feature-name
-    ```
+   ```bash
+   git push origin feature/your-feature-name
+   ```
 
 5. **Create a Pull Request:** Go to the [A-Z-Python-Projects repository](https://github.com/Techiral/A-Z-Python-Projects/) on GitHub and click on the "New Pull Request" button. Select your branch, add a descriptive title and comments, and submit the Pull Request.
 
@@ -69,6 +69,13 @@ This repository is Hacktoberfest-friendly! Here's how you can participate:
 
 ---
 
+## Related Hacktoberfest Projects
+
+- [STAR](https://github.com/Techiral/STAR)
+- [AI-OctoFusion](https://github.com/Techiral/AI-OctoFusion)
+
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -82,6 +89,12 @@ We appreciate the contributions from the following community members:
 - [Techiral](https://github.com/Techiral/)
 - [BassCoder2808](https://github.com/BassCoder2808/)
 - [Prathamesh Patil](https://www.linkedin.com/in/prathamesh8124/)
+- [Leprecha1](https://github.com/leprecha1/)
+- [Shubham Atkal](https://github.com/shubhamatkal)
+- [Harsimran Singh](https://github.com/Harsimran-19)
+- [Ezhill Ragesh](https://github.com/ezhillragesh)
+- [Brunda Bharadwaj](https://github.com/brundabharadwaj/)
+- [Hemanth Singh](https://github.com/Hemanth11011)
 
 ---
 
